@@ -1,0 +1,362 @@
+[
+  {
+    "symbol": "─",
+    "unicode": "U+2500",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "category": "light",
+    "html_dec": "&#9472;",
+    "html_hex": "&#x2500;",
+    "alt_code": "196"
+  },
+  {
+    "symbol": "│",
+    "unicode": "U+2502",
+    "name": "BOX DRAWINGS LIGHT VERTICAL",
+    "category": "light",
+    "html_dec": "&#9474;",
+    "html_hex": "&#x2502;",
+    "alt_code": "179"
+  },
+  {
+    "symbol": "┌",
+    "unicode": "U+250C",
+    "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+    "category": "light",
+    "html_dec": "&#9484;",
+    "html_hex": "&#x250C;",
+    "alt_code": "218"
+  },
+  {
+    "symbol": "┐",
+    "unicode": "U+2510",
+    "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+    "category": "light",
+    "html_dec": "&#9488;",
+    "html_hex": "&#x2510;",
+    "alt_code": "191"
+  },
+  {
+    "symbol": "└",
+    "unicode": "U+2514",
+    "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
+    "category": "light",
+    "html_dec": "&#9492;",
+    "html_hex": "&#x2514;",
+    "alt_code": "192"
+  },
+  {
+    "symbol": "┘",
+    "unicode": "U+2518",
+    "name": "BOX DRAWINGS LIGHT UP AND LEFT",
+    "category": "light",
+    "html_dec": "&#9496;",
+    "html_hex": "&#x2518;",
+    "alt_code": "217"
+  },
+  {
+    "symbol": "├",
+    "unicode": "U+251C",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+    "category": "light",
+    "html_dec": "&#9500;",
+    "html_hex": "&#x251C;",
+    "alt_code": "195"
+  },
+  {
+    "symbol": "┤",
+    "unicode": "U+2524",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+    "category": "light",
+    "html_dec": "&#9508;",
+    "html_hex": "&#x2524;",
+    "alt_code": "180"
+  },
+  {
+    "symbol": "┬",
+    "unicode": "U+252C",
+    "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+    "category": "light",
+    "html_dec": "&#9516;",
+    "html_hex": "&#x252C;",
+    "alt_code": "194"
+  },
+  {
+    "symbol": "┴",
+    "unicode": "U+2534",
+    "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+    "category": "light",
+    "html_dec": "&#9524;",
+    "html_hex": "&#x2534;",
+    "alt_code": "193"
+  },
+  {
+    "symbol": "┼",
+    "unicode": "U+253C",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+    "category": "light",
+    "html_dec": "&#9532;",
+    "html_hex": "&#x253C;",
+    "alt_code": "197"
+  },
+  {
+    "symbol": "═",
+    "unicode": "U+2550",
+    "name": "BOX DRAWINGS DOUBLE HORIZONTAL",
+    "category": "double",
+    "html_dec": "&#9552;",
+    "html_hex": "&#x2550;",
+    "alt_code": "205"
+  },
+  {
+    "symbol": "║",
+    "unicode": "U+2551",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL",
+    "category": "double",
+    "html_dec": "&#9553;",
+    "html_hex": "&#x2551;",
+    "alt_code": "186"
+  },
+  {
+    "symbol": "╔",
+    "unicode": "U+2554",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
+    "category": "double",
+    "html_dec": "&#9556;",
+    "html_hex": "&#x2554;",
+    "alt_code": "201"
+  },
+  {
+    "symbol": "╗",
+    "unicode": "U+2557",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
+    "category": "double",
+    "html_dec": "&#9559;",
+    "html_hex": "&#x2557;",
+    "alt_code": "187"
+  },
+  {
+    "symbol": "╚",
+    "unicode": "U+255A",
+    "name": "BOX DRAWINGS DOUBLE UP AND RIGHT",
+    "category": "double",
+    "html_dec": "&#9562;",
+    "html_hex": "&#x255A;",
+    "alt_code": "200"
+  },
+  {
+    "symbol": "╝",
+    "unicode": "U+255D",
+    "name": "BOX DRAWINGS DOUBLE UP AND LEFT",
+    "category": "double",
+    "html_dec": "&#9565;",
+    "html_hex": "&#x255D;",
+    "alt_code": "188"
+  },
+  {
+    "symbol": "╠",
+    "unicode": "U+2560",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
+    "category": "double",
+    "html_dec": "&#9568;",
+    "html_hex": "&#x2560;",
+    "alt_code": "204"
+  },
+  {
+    "symbol": "╣",
+    "unicode": "U+2563",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
+    "category": "double",
+    "html_dec": "&#9571;",
+    "html_hex": "&#x2563;",
+    "alt_code": "185"
+  },
+  {
+    "symbol": "╦",
+    "unicode": "U+2566",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
+    "category": "double",
+    "html_dec": "&#9574;",
+    "html_hex": "&#x2566;",
+    "alt_code": "203"
+  },
+  {
+    "symbol": "╩",
+    "unicode": "U+2569",
+    "name": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
+    "category": "double",
+    "html_dec": "&#9577;",
+    "html_hex": "&#x2569;",
+    "alt_code": "202"
+  },
+  {
+    "symbol": "╬",
+    "unicode": "U+256C",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
+    "category": "double",
+    "html_dec": "&#9588;",
+    "html_hex": "&#x256C;",
+    "alt_code": "206"
+  },
+  {
+    "symbol": "━",
+    "unicode": "U+2501",
+    "name": "BOX DRAWINGS HEAVY HORIZONTAL",
+    "category": "heavy",
+    "html_dec": "&#9473;",
+    "html_hex": "&#x2501;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┃",
+    "unicode": "U+2503",
+    "name": "BOX DRAWINGS HEAVY VERTICAL",
+    "category": "heavy",
+    "html_dec": "&#9475;",
+    "html_hex": "&#x2503;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┏",
+    "unicode": "U+250F",
+    "name": "BOX DRAWINGS HEAVY DOWN AND RIGHT",
+    "category": "heavy",
+    "html_dec": "&#9487;",
+    "html_hex": "&#x250F;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┓",
+    "unicode": "U+2513",
+    "name": "BOX DRAWINGS HEAVY DOWN AND LEFT",
+    "category": "heavy",
+    "html_dec": "&#9491;",
+    "html_hex": "&#x2513;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┗",
+    "unicode": "U+2517",
+    "name": "BOX DRAWINGS HEAVY UP AND RIGHT",
+    "category": "heavy",
+    "html_dec": "&#9495;",
+    "html_hex": "&#x2517;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┛",
+    "unicode": "U+251B",
+    "name": "BOX DRAWINGS HEAVY UP AND LEFT",
+    "category": "heavy",
+    "html_dec": "&#9499;",
+    "html_hex": "&#x251B;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┣",
+    "unicode": "U+2523",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT",
+    "category": "heavy",
+    "html_dec": "&#9507;",
+    "html_hex": "&#x2523;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┫",
+    "unicode": "U+252B",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND LEFT",
+    "category": "heavy",
+    "html_dec": "&#9515;",
+    "html_hex": "&#x252B;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┳",
+    "unicode": "U+2533",
+    "name": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL",
+    "category": "heavy",
+    "html_dec": "&#9523;",
+    "html_hex": "&#x2533;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "┻",
+    "unicode": "U+253B",
+    "name": "BOX DRAWINGS HEAVY UP AND HORIZONTAL",
+    "category": "heavy",
+    "html_dec": "&#9531;",
+    "html_hex": "&#x253B;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "╭",
+    "unicode": "U+256D",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT",
+    "category": "arc",
+    "html_dec": "&#9581;",
+    "html_hex": "&#x256D;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "╮",
+    "unicode": "U+256E",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT",
+    "category": "arc",
+    "html_dec": "&#9582;",
+    "html_hex": "&#x256E;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "╯",
+    "unicode": "U+256F",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND LEFT",
+    "category": "arc",
+    "html_dec": "&#9583;",
+    "html_hex": "&#x256F;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "╰",
+    "unicode": "U+2570",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND RIGHT",
+    "category": "arc",
+    "html_dec": "&#9584;",
+    "html_hex": "&#x2570;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "░",
+    "unicode": "U+2591",
+    "name": "LIGHT SHADE",
+    "category": "block",
+    "html_dec": "&#9617;",
+    "html_hex": "&#x2591;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "▒",
+    "unicode": "U+2592",
+    "name": "MEDIUM SHADE",
+    "category": "block",
+    "html_dec": "&#9618;",
+    "html_hex": "&#x2592;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "▓",
+    "unicode": "U+2593",
+    "name": "DARK SHADE",
+    "category": "block",
+    "html_dec": "&#9619;",
+    "html_hex": "&#x2593;",
+    "alt_code": "—"
+  },
+  {
+    "symbol": "█",
+    "unicode": "U+2588",
+    "name": "FULL BLOCK",
+    "category": "block",
+    "html_dec": "&#9608;",
+    "html_hex": "&#x2588;",
+    "alt_code": "—"
+  }
+]
