@@ -23,3 +23,22 @@ project
 ┃   ┗━━ test_main.js
 ┗━━ README.md
 ```
+
+### **Example — Mobile App Structure**
+
+```
+┌ app
+│
+├── components
+│   ├── Button.tsx
+│   └── Card.tsx
+│
+├── screens
+│   ├── Home.tsx
+│   └── Settings.tsx
+│
+├── hooks
+│   └── useAuth.ts
+│
+└── App.tsx
+```

@@ -71,7 +71,58 @@ ascii-box-drawing/
   Load datasets, generate boxes, and build diagrams programmatically.
 
 - **Templates**  
-  Ready‑to‑copy ASCII diagrams: menus, course lists, ERDs, directory trees, decision tables, and more.
+  A comprehensive library of ready‑to‑copy ASCII diagrams for architecture, modeling, DevOps, data engineering, UI/UX, and more.  
+  All templates are plain text and Markdown‑friendly — perfect for READMEs, wikis, RFCs, and documentation.
+
+  #### **Architecture**
+  - Cloud (AWS, GCP), deployment, serverless, edge computing  
+  - API gateways, reverse proxies, versioning  
+  - Observability, security, zero‑trust  
+  - Network topologies  
+
+  #### **Identity**
+  - OAuth2, OIDC, PKCE, device flow  
+  - Identity flows and access control patterns  
+
+  #### **Distributed Systems**
+  - Service mesh (basic + advanced)  
+  - Event‑driven microservices  
+  - CQRS, event sourcing  
+  - CAP theorem, caching, sharding  
+  - Blockchain consensus  
+
+  #### **Kubernetes**
+  - Cluster basics  
+  - Scheduling, taints/tolerations  
+  - Networking (CNI, kube‑proxy, services)  
+  - Container lifecycle  
+
+  #### **DevOps**
+  - IaC diagrams  
+  - CI/CD pipelines  
+  - API lifecycle  
+  - Git branching models  
+
+  #### **Data Engineering**
+  - ERDs, DDD aggregates  
+  - Data pipelines (ETL/ELT/streaming)  
+  - Data modeling patterns  
+  - Event storming  
+
+  #### **UI/UX**
+  - Wireframes (login, dashboard, settings)  
+  - ASCII UI components  
+  - CLI help screens  
+  - Menu and list templates  
+
+  #### **Modeling & Design**
+  - UML class diagrams (basic, inheritance, abstract, generics)  
+  - Composition/aggregation  
+  - Package diagrams  
+  - State machines, statecharts  
+  - BPMN (basic + advanced)  
+  - Flowcharts  
+  - Directory trees  
 
 ---
 
