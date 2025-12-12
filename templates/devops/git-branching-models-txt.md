@@ -4,7 +4,7 @@ Shows Git workflows: feature branches, GitFlow, trunk‑based development.
 ### Example — Feature Branch Workflow
 ```
 main ────────┐
-             ├── feature/login ────┐
+             ├── feature/login ─────┐
              └──────────────────────┘ merge
 ```
 

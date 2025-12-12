@@ -18,7 +18,7 @@ Useful for schema design, data modelling, and backend architecture.
 
 ```
 ┌──────────────┐        1     *        ┌──────────────┐
-│   Users      │─────────────────────▶│   Orders     │
+│   Users      │──────────────────────▶│   Orders     │
 ├──────────────┤                       ├──────────────┤
 │ id (PK)      │                       │ id (PK)      │
 │ name         │                       │ userId (FK)  │
