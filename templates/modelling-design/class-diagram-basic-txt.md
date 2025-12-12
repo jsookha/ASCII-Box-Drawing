@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Represents classes, their attributes, and their methods using ASCII UML‑style boxes.  
 Useful for teaching OOP fundamentals, documenting codebases, or planning architecture.
 
----
-
-## ✅ **Example 1 — Basic Class (User)**
+### Example — Basic Class (User)
 
 ```
 ┌──────────────────────────┐
@@ -21,9 +19,7 @@ Useful for teaching OOP fundamentals, documenting codebases, or planning archite
 └──────────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Class With Types & Defaults**
+### Example — Class With Types & Defaults
 
 ```
 ┌────────────────────────────────┐
@@ -40,9 +36,7 @@ Useful for teaching OOP fundamentals, documenting codebases, or planning archite
 └────────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Service Class**
+### Example — Service Class
 
 ```
 ┌──────────────────────────────────────┐
@@ -58,7 +52,7 @@ Useful for teaching OOP fundamentals, documenting codebases, or planning archite
 └──────────────────────────────────────┘
 ```
 
-### **Example 4 — Relationship**
+### Example — Relationship
 ```
 ┌──────────────┐       ┌──────────────┐
 │   User       │ 1   * │   Order      │

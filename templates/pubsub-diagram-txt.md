@@ -1,12 +1,12 @@
-### **Purpose**
+### Purpose
 Shows asynchronous communication patterns.
 
-### **Example 1 — Basic Pub‑Sub**
+### Example — Basic Pub‑Sub
 ```
 Publisher → Topic → Subscriber
 ```
 
-### **Example 2 — Multiple Subscribers**
+### Example — Multiple Subscribers
 ```
 Publisher
    │

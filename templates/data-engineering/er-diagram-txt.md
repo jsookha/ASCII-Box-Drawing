@@ -4,7 +4,7 @@ Represents database tables and their relationships.
 Useful for schema design, data modelling, and backend architecture.
 
 
-### Example 1 — Customers and Orders
+### Example — Customers and Orders
 ```
 ┌───────────────┐      ┌───────────────┐
 │ Customers     │      │ Orders        │
@@ -14,7 +14,7 @@ Useful for schema design, data modelling, and backend architecture.
 └───────────────┘      └───────────────┘
 ```
 
-### Example 2 — One‑to‑Many
+### Example — One‑to‑Many
 
 ```
 ┌──────────────┐        1     *        ┌──────────────┐
@@ -26,9 +26,7 @@ Useful for schema design, data modelling, and backend architecture.
 └──────────────┘                       └──────────────┘
 ```
 
----
-
-### Example 3 — Many‑to‑Many (Join Table)
+### Example — Many‑to‑Many (Join Table)
 
 ```
 ┌──────────────┐        ┌────────────────┐        ┌──────────────┐
@@ -40,9 +38,7 @@ Useful for schema design, data modelling, and backend architecture.
                       └────────────────────┘
 ```
 
----
-
-### Example 4 — One‑to‑One
+### Example — One‑to‑One
 
 ```
 ┌──────────────┐ 1 ──── 1 ┌──────────────┐

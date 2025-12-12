@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Shows parent/child relationships between classes.  
 Useful for explaining polymorphism, shared behavior, and OOP design.
 
----
-
-## ✅ **Example 1 — Simple Inheritance**
+### Example — Simple Inheritance
 
 ```
              ┌──────────────────────┐
@@ -28,9 +26,7 @@ Useful for explaining polymorphism, shared behavior, and OOP design.
 └────────────────┘                 └────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Multi‑Level Inheritance**
+### Example — Multi‑Level Inheritance
 
 ```
 ┌────────────────────────┐
@@ -59,9 +55,7 @@ Useful for explaining polymorphism, shared behavior, and OOP design.
         └───────────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Inheritance With Overridden Methods**
+### Example — Inheritance With Overridden Methods
 
 ```
 ┌──────────────────────────────┐

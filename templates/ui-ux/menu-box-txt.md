@@ -2,7 +2,7 @@
 A simple menu box for CLI programs or teaching exercises.  
 Shows students how to frame options clearly.
 
-### Example 1 — Light Style
+### Example — Light Style
 ```
 ┌───────────────────────────────┐
 │           MAIN MENU           │
@@ -14,7 +14,7 @@ Shows students how to frame options clearly.
 └───────────────────────────────┘
 ```
 
-### Example 2 — Heavy Style
+### Example — Heavy Style
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃           MAIN MENU           ┃

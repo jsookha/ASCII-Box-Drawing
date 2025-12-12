@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Illustrates microservice communication patterns and shared dependencies.  
 Useful for distributed system design or API gateway discussions.
 
-### **Example 2 — Microservice Layout**
+### Example — Microservice Layout
 ```
 ┌──────────────────────┐     ┌──────────────────────┐
 │  API Gateway         │     │  Authentication Svc  │
@@ -19,7 +19,7 @@ Useful for distributed system design or API gateway discussions.
                     └────────────┘
 ```
 
-### **Variation — With Message Queue**
+### Variation — With Message Queue
 ```
 ┌──────────────────────┐
 │      API Gateway     │

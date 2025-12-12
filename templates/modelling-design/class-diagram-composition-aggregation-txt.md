@@ -1,11 +1,9 @@
-### **Purpose**
+### Purpose
 Illustrates whole–part relationships between classes.  
 - **Composition (●)** = strong ownership (lifecycle bound)  
 - **Aggregation (○)** = weak ownership (shared or optional)
 
----
-
-## ✅ **Example 1 — Composition (Strong Ownership)**
+### Example — Composition (Strong Ownership)
 
 ```
 ┌──────────────────────┐
@@ -26,9 +24,7 @@ Illustrates whole–part relationships between classes.
 
 **Meaning:** A `House` *owns* its `Room`s. If the house is destroyed, the rooms are too.
 
----
-
-## ✅ **Example 2 — Aggregation (Weak Ownership)**
+### Example — Aggregation (Weak Ownership)
 
 ```
 ┌──────────────────────┐
@@ -48,9 +44,7 @@ Illustrates whole–part relationships between classes.
 
 **Meaning:** A `Player` can exist without a `Team`.
 
----
-
-## ✅ **Example 3 — Mixed Example**
+### Example — Mixed Example
 
 ```
 Project ●───┐

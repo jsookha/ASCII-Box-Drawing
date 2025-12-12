@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Shows how modules depend on each other in a codebase.  
 Useful for architecture reviews or refactoring planning.
 
-### **Example 1 — Simple Dependency Tree**
+### Example — Simple Dependency Tree
 ```
 Core Module
    ├── Auth
@@ -10,7 +10,7 @@ Core Module
    └── Logger
 ```
 
-### **Example 2 — Layered Architecture**
+### Example — Layered Architecture
 ```
 ┌──────────────┐
 │   UI Layer   │
@@ -29,7 +29,7 @@ Core Module
 └───────────────┘
 ```
 
-### **Example 3 — Circular Dependency Warning**
+### Example — Circular Dependency Warning
 ```
 Module A → Module B → Module C → Module A
 ```

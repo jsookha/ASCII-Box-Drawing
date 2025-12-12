@@ -1,26 +1,20 @@
-### **Purpose**
+### Purpose
 Provides reusable ASCII UI components for mockups and documentation.
 
----
-
-## ✅ **Buttons**
+### Buttons
 ```
 [  OK  ]
 [ Cancel ]
 [ Submit ]
 ```
 
----
-
-## ✅ **Inputs**
+### Inputs
 ```
 [________________________]
 [  Enter name here       ]
 ```
 
----
-
-## ✅ **Cards**
+### Cards
 ```
 ┌──────────────────────────┐
 │   Card Title             │
@@ -29,9 +23,7 @@ Provides reusable ASCII UI components for mockups and documentation.
 └──────────────────────────┘
 ```
 
----
-
-## ✅ **Modals**
+### Modals
 ```
 ┌──────────────────────────────────┐
 │            Modal Title           │

@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Illustrates how arrays and nested objects are defined in JSON Schema.  
 Useful for API list endpoints or collection‑based data models.
 
-### **Example 2 — Array Schema**
+### Example — Array Schema
 ```
 ┌─────────────────────────────────────────────┐
 │ JSON Schema: Product List                   │
@@ -17,7 +17,7 @@ Useful for API list endpoints or collection‑based data models.
 └─────────────────────────────────────────────┘
 ```
 
-### **Variation — With Required Fields**
+### Variation — With Required Fields
 ```
 ┌─────────────────────────────────────────────┐
 │ JSON Schema: Product List                   │

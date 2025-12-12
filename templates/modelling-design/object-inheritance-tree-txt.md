@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Shows class inheritance relationships.  
 Useful for OOP teaching or documenting class hierarchies.
 
-### **Example 1 — Simple Tree**
+### Example — Simple Tree
 ```
 Animal
  ├── Mammal
@@ -12,7 +12,7 @@ Animal
       └── Eagle
 ```
 
-### **Example 2 — UI Component Tree**
+### Example — UI Component Tree
 ```
 Component
  ├── Button

@@ -1,7 +1,7 @@
-### **Purpose**
+### Purpose
 Shows how software components are deployed across servers or nodes.
 
-### **Example 1 — On‑Prem Deployment**
+### Example 1 — On‑Prem Deployment
 ```
 ┌──────────────────────────────┐
 │   Web Server                 │
@@ -17,7 +17,7 @@ Shows how software components are deployed across servers or nodes.
 └──────────────────────────────┘
 ```
 
-### **Example 2 — Cloud Deployment**
+### Example 2 — Cloud Deployment
 ```
 ┌──────────────────────────────┐
 │        Load Balancer         │

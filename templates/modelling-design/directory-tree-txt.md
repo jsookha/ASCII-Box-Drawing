@@ -24,7 +24,7 @@ project
 ┗━━ README.md
 ```
 
-### **Example — Mobile App Structure**
+### Example — Mobile App Structure
 
 ```
 ┌ app

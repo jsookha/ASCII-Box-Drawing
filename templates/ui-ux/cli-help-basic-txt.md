@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Shows how command‑line help output might appear.  
 Useful for documenting CLI tools or teaching command syntax.
 
-### **Example 1 — Basic Help**
+### Example — Basic Help
 ```
 Usage: toolname [options]
 
@@ -12,7 +12,7 @@ Options:
   -c, --config FILE Specify config file
 ```
 
-### **Example 2 — Subcommands**
+### Example — Subcommands
 ```
 Usage: app <command> [options]
 
@@ -24,7 +24,7 @@ Commands:
 Run 'app <command> --help' for details.
 ```
 
-### **Example 3 — Detailed Help**
+### Example — Detailed Help
 ```
 Usage: backup [options] <source> <destination>
 

@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Provides a simple ASCII mockup of a login screen.  
 Useful for early UX planning, teaching layout concepts, or documenting flows.
 
-### **Example 1 — Basic Login Screen**
+### Example — Basic Login Screen
 ```
 ┌──────────────────────────────┐
 │          Login Page          │
@@ -14,7 +14,7 @@ Useful for early UX planning, teaching layout concepts, or documenting flows.
 └──────────────────────────────┘
 ```
 
-### **Example 2 — Login + Forgot Password**
+### Example — Login + Forgot Password
 ```
 ┌──────────────────────────────────────┐
 │              Login Page              │
@@ -26,7 +26,7 @@ Useful for early UX planning, teaching layout concepts, or documenting flows.
 └──────────────────────────────────────┘
 ```
 
-### **Example 3 — Login + Social Auth**
+### Example — Login + Social Auth
 ```
 ┌──────────────────────────────────────────┐
 │                Welcome Back              │

@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Provides a structured, readable table describing database fields.  
 Useful for backend documentation, schema design, or onboarding.
 
-### **Example — User Table**
+### Example — User Table
 ```
 ┌───────────────────────────────────────────────────────────────┐
 │ Data Dictionary: User Table                                   │
@@ -16,7 +16,7 @@ Useful for backend documentation, schema design, or onboarding.
 └───────────────────────────────────────────────────────────────┘
 ```
 
-### **Variation — With Constraints**
+### Variation — With Constraints
 ```
 ┌────────────────────────────────────────────────────────────────────┐
 │ Data Dictionary: User Table                                        │

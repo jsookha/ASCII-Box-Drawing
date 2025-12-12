@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Shows a typical dashboard layout with sidebar navigation and content area.  
 Useful for admin panels, SaaS apps, or internal tools.
 
-### **Example 1 — Sidebar + Content**
+### Example — Sidebar + Content
 ```
 ┌───────────────────────────────────────────────────────────────┐
 │ Sidebar        │                 Dashboard                    │
@@ -18,7 +18,7 @@ Useful for admin panels, SaaS apps, or internal tools.
 └────────────────┴──────────────────────────────────────────────┘
 ```
 
-### **Example 2 — Cards Layout**
+### Example — Cards Layout
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │ Dashboard                                                    │

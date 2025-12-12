@@ -1,7 +1,7 @@
 ### Purpose
 A box‑framed course list for teaching schedules or assignment outlines.
 
-### Example 1 — Double Line Style
+### Example — Double Line Style
 ```
 ╔═══════════════════════════════╗
 ║       COURSE LIST             ║
@@ -13,7 +13,7 @@ A box‑framed course list for teaching schedules or assignment outlines.
 ╚═══════════════════════════════╝
 ```
 
-### Example 2 — Rounded Style
+### Example — Rounded Style
 ```
 ╭───────────────────────────────╮
 │       COURSE LIST             │

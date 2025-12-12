@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Shows abstract classes and interfaces using ASCII UML notation.  
 Useful for teaching abstraction, contracts, and polymorphism.
 
----
-
-## ✅ **Example 1 — Abstract Class**
+### Example — Abstract Class
 
 ```
 ┌────────────────────────────────────┐
@@ -41,9 +39,7 @@ Useful for teaching abstraction, contracts, and polymorphism.
 └──────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Interface‑Style Diagram**
+### Example — Interface‑Style Diagram
 
 ```
 ┌──────────────────────────────────────┐
@@ -79,9 +75,7 @@ Useful for teaching abstraction, contracts, and polymorphism.
 └──────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Abstract + Interface Combo**
+### Example — Abstract + Interface Combo
 
 ```
 ┌──────────────────────────────────────────┐

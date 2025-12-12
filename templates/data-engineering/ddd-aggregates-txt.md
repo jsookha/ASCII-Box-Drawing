@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Represents aggregate roots and their internal entities/value objects.  
 Useful for modeling bounded contexts and domain consistency rules.
 
----
-
-## ✅ **Example 1 — Order Aggregate**
+### Example — Order Aggregate
 
 ```
 ┌────────────────────────────────────────────┐
@@ -28,9 +26,7 @@ Useful for modeling bounded contexts and domain consistency rules.
         └──────────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Customer Aggregate**
+### Example — Customer Aggregate
 
 ```
 ┌────────────────────────────────────────────┐
@@ -51,9 +47,7 @@ Useful for modeling bounded contexts and domain consistency rules.
             └──────────────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Inventory Aggregate**
+### Example 3 — Inventory Aggregate
 
 ```
 Inventory (Root)

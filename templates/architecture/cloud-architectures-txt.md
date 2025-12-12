@@ -1,9 +1,7 @@
-### **Purpose**
+### Purpose
 Provides simplified ASCII diagrams of cloud architectures.
 
----
-
-### Example 1 — AWS Web App
+### Example — AWS Web App
 ```
           ┌──────────────┐
           │   Route53    │
@@ -25,7 +23,7 @@ Provides simplified ASCII diagrams of cloud architectures.
           └──────────────┘
 ```
 
-### Example 2 — Azure App Service
+### Example — Azure App Service
 ```
 ┌──────────────────────────────┐
 │        Azure Front Door      │
@@ -40,7 +38,7 @@ Provides simplified ASCII diagrams of cloud architectures.
         └──────────────┘
 ```
 
-### Example 3 — GCP Microservice
+### Example — GCP Microservice
 ```
 ┌─────────────────────────────┐
 │        Cloud Load Balancer  │

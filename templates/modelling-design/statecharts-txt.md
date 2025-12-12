@@ -1,27 +1,23 @@
-### **Purpose**
+### Purpose
 Shows hierarchical and parallel states.
 
----
-
-## ✅ **Example 1 — Basic Statechart**
+### Example — Basic Statechart
 ```
 ┌──────────────┐
 │   Idle       │
 └──────┬───────┘
        ▼
-┌────────────────┐
-│  Active        │
-├──────┬─────────┤
-│      │         │
-│   ┌──▼──┐   ┌──▼──┐
-│   │Run  │   │Pause│
-│   └─────┘   └─────┘
-└────────────────┘
+┌───────────────────────┐
+│  Active               │
+├──────┬─────────┬──────┤
+│      │         │      │
+│   ┌──▼──┐   ┌──▼──┐   │
+│   │Run  │   │Pause│   │
+│   └─────┘   └─────┘   │
+└───────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Parallel States**
+### Example — Parallel States
 ```
 ┌─────────────────────────────┐
 │          Active             │

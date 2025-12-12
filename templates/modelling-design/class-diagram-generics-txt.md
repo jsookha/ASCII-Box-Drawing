@@ -1,9 +1,7 @@
-### **Purpose**
+### Purpose
 Shows how generic classes, templates, and type parameters are represented in ASCII UML.
 
----
-
-## ✅ **Example 1 — Generic Repository**
+### Example — Generic Repository
 
 ```
 ┌──────────────────────────────────────────┐
@@ -16,9 +14,7 @@ Shows how generic classes, templates, and type parameters are represented in ASC
 └──────────────────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Generic Pair**
+### Example — Generic Pair
 
 ```
 ┌──────────────────────────────────────────┐
@@ -31,9 +27,7 @@ Shows how generic classes, templates, and type parameters are represented in ASC
 └──────────────────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Generic Service With Constraints**
+### Example — Generic Service With Constraints
 
 ```
 ┌──────────────────────────────────────────────────────────┐

@@ -1,16 +1,12 @@
-### **Purpose**
+### Purpose
 Represents domain events, commands, aggregates, and policies.
 
----
-
-## ✅ **Example 1 — Basic Event Flow**
+### Example — Basic Event Flow
 ```
 [Command] → (Event) → [Aggregate] → (Event)
 ```
 
----
-
-## ✅ **Example 2 — Full Board**
+### Example — Full Board
 ```
 [Place Order] → (OrderPlaced) → [Order Aggregate]
                      │

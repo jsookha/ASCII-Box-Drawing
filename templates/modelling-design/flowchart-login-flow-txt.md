@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Demonstrates a simple decision‑based flow using ASCII boxes and arrows.  
 Useful for onboarding, authentication logic, or UX flow documentation.
 
-### **Example 1 — Login Flow**
+### Example 1 — Login Flow
 ```
         ┌──────────────┐
         │   Start      │
@@ -27,7 +27,7 @@ Useful for onboarding, authentication logic, or UX flow documentation.
   └─────────┘   └────────────┘
 ```
 
-### **Variation — With Retry Limit**
+### Variation — With Retry Limit
 ```
         ┌──────────────┐
         │   Start      │

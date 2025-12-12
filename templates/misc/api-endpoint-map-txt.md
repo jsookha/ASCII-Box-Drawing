@@ -1,7 +1,7 @@
-### **Purpose**
+### Purpose
 Provides a structured overview of API endpoints.
 
-### **Example 1 — REST API**
+### Example — REST API
 ```
 /users
 /users/{id}
@@ -10,7 +10,7 @@ Provides a structured overview of API endpoints.
 /orders/{id}
 ```
 
-### **Example 2 — Grouped by Domain**
+### Example — Grouped by Domain
 ```
 User:
   GET /users

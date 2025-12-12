@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Shows Kubernetes cluster components in a simplified ASCII layout.  
 Useful for teaching pods, nodes, deployments, and services.
 
----
-
-## ✅ **Example 1 — Basic Cluster Overview**
+### Example — Basic Cluster Overview
 ```
 ┌──────────────────────────────────────────────┐
 │               Kubernetes Cluster             │
@@ -21,11 +19,9 @@ Useful for teaching pods, nodes, deployments, and services.
 └──────────────────────────────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Deployment + ReplicaSet + Pods**
+### Example — Deployment + ReplicaSet + Pods
 ```
-Deployment
+ Deployment
      │
      ▼
 ┌──────────────┐
@@ -37,9 +33,7 @@ Deployment
  └─────────────┘   └─────────────┘   └─────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Service Routing**
+### Example 3 — Service Routing
 ```
           ┌──────────────┐
           │   Service    │

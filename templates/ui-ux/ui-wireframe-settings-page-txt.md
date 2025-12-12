@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Represents a settings/preferences screen with toggles and sections.  
 Useful for UX planning or documenting configuration flows.
 
-### **Example 1 — Basic Settings**
+### Example — Basic Settings
 ```
 ┌──────────────────────────────────────────┐
 │               Settings                   │
@@ -17,7 +17,7 @@ Useful for UX planning or documenting configuration flows.
 └──────────────────────────────────────────┘
 ```
 
-### **Example 2 — Advanced Settings**
+### Example — Advanced Settings
 ```
 ┌──────────────────────────────────────────────┐
 │                 System Settings              │

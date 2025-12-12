@@ -1,9 +1,7 @@
-### **Purpose**
+### Purpose
 Represents workflow stages in a Kanban system.
 
----
-
-## ✅ **Example 1 — Basic 3‑Column Board**
+### Example — Basic 3‑Column Board
 ```
 ┌────────────┬────────────┬────────────┐
 │  To Do     │ In Progress│   Done     │
@@ -14,14 +12,12 @@ Represents workflow stages in a Kanban system.
 └────────────┴────────────┴────────────┘
 ```
 
----
-
-## ✅ **Example 2 — With WIP Limits**
+### Example — With WIP Limits
 ```
 ┌────────────┬─────────────────────────┬────────────┐
 │ To Do      │ In Progress (WIP:2)     │ Done       │
 ├────────────┼─────────────────────────┼────────────┤
 │ A          │ C                       │ F          │
 │ B          │ D                       │ G          │
-└────────────┴────────────┴────────────┴────────────┘
+└────────────┴─────────────────────────┴────────────┘
 ```

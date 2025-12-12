@@ -1,10 +1,8 @@
-### **Purpose**
+### Purpose
 Shows logical grouping of classes/modules into packages.  
 Useful for large‑scale architecture or modular design.
 
----
-
-## ✅ **Example 1 — Basic Package Structure**
+### Example — Basic Package Structure
 
 ```
 ┌──────────────────────┐
@@ -22,9 +20,7 @@ Useful for large‑scale architecture or modular design.
 └──────────────────────┘
 ```
 
----
-
-## ✅ **Example 2 — Package Dependencies**
+### Example — Package Dependencies
 
 ```
 ┌──────────────┐      ┌──────────────┐
@@ -37,9 +33,7 @@ Useful for large‑scale architecture or modular design.
 └──────────────┘
 ```
 
----
-
-## ✅ **Example 3 — Nested Packages**
+### Example — Nested Packages
 
 ```
 ┌──────────────────────────────────────────────┐

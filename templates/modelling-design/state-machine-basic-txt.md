@@ -1,8 +1,8 @@
-### **Purpose**
+### Purpose
 Shows transitions between states in a system.  
 Useful for UI flows, device states, or process modeling.
 
-### **Example — Basic State Machine**
+### Example — Basic State Machine
 ```
      ┌───────────┐        ┌──────────────┐
      │   Idle    │──start→│   Selecting  │
@@ -14,7 +14,7 @@ Useful for UI flows, device states, or process modeling.
         └────────┘          └──────────────┘
 ```
 
-### **Variation — With Error State**
+### Variation — With Error State
 ```
      ┌───────────┐
      │   Idle    │
