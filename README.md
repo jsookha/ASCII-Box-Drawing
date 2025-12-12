@@ -72,7 +72,7 @@ ascii-box-drawing/
 
 - **Templates**  
   A comprehensive library of ready‑to‑copy ASCII diagrams for architecture, modeling, DevOps, data engineering, UI/UX, and more.  
-  All templates are plain text and Markdown‑friendly — perfect for READMEs, wikis, RFCs, and documentation.
+  All templates are plain text and Markdown‑friendly — perfect for READMEs, wikis, and documentation.
 
   #### **Architecture**
   - Cloud (AWS, GCP), deployment, serverless, edge computing  

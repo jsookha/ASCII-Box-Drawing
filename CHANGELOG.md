@@ -87,6 +87,19 @@ This file documents the evolution of the repository, compiled collaboratively.
 
 ---
 
+## [2025-12-12] Updated Content
+
+### Template Sorting 
+- new templates added  
+- renamed templates  
+- reorganized folders  
+- breaking changes: file moved or merged
+- minor improvements to existing diagrams  
+- new categories introduced  
+- formatting & naming conventions adopted similar to original series of documents  
+
+---
+
 ## Summary
 The repository now provides:
 - A complete reference for box-drawing characters.
