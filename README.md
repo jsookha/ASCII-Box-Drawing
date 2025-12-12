@@ -14,11 +14,30 @@ This repository provides a **complete reference and toolkit** for educators, stu
 
 ---
 
+## Motivation: The Power of Text-Based Diagrams
+
+In technical documentation, visual clarity is paramount. While screenshots and complex graphical tools are common, they often become outdated, cannot be easily rendered in standard terminal output, or are cumbersome to maintain in simple Markdown/reStructuredText files.
+
+This repository is directly inspired by the simplicity and clarity of classic **RFC (Request for Comments)** documents, which use text-based diagrams to clearly illustrate network protocols and concepts.
+
+By utilizing ASCII box drawings, we gain several advantages:
+
+* **Version Control Friendly:** Diagrams are stored as plain text, allowing for clear `diffs` and easy merging in Git.
+* **Universal Rendering:** They render perfectly in terminals, GitHub/GitLab Markdown, and any text-based environment.
+* **Accessibility:** They are lightweight and easy to copy-paste into command-line interface (CLI) help screens, emails, or simple tickets.
+
+This project aims to provide a library of ready-to-use templates for system architects, developers, and technical writers who value documentation that is both powerful and inherently simple.
+
+---
+
 ## Repository Structure
+The repository is organized to separate guides, coded usage examples (using datasets), and the core template library.
 
 ```
 ascii-box-drawing/
-├── README.md
+├── README.md (You are here)
+├── CHANGELOG.md 
+├── CONTRIBUTING.md 
 ├── docs/
 │   ├── box-drawing-reference.md
 │   ├── appendix-a-unicode-box-drawing.md
@@ -39,12 +58,12 @@ ascii-box-drawing/
 │   ├── csharp-example.cs
 │   └── kotlin-example.kt
 └── templates/
-    ├── menu-box.txt
-    ├── course-list.txt
-    ├── er-diagram.txt
-    ├── directory-tree.txt
-    ├── decision-table.txt
-    └── network-tree.txt
+    ├── TEMPLATE-INDEX-v1.0.1.md
+    ├── architecture/
+    ├── data-engineering/
+    ├── devops/
+    ├── distributed-systems/
+    └── ...(other template sub-directories)
 ```
 
 ---
@@ -69,60 +88,16 @@ ascii-box-drawing/
 
 - **Examples (JavaScript, TypeScript, Python, Java, C#, Kotlin)**  
   Load datasets, generate boxes, and build diagrams programmatically.
-
+  
 - **Templates**  
   A comprehensive library of ready‑to‑copy ASCII diagrams for architecture, modeling, DevOps, data engineering, UI/UX, and more.  
   All templates are plain text and Markdown‑friendly — perfect for READMEs, wikis, and documentation.
+  The best way to browse this content is via the **Template Library Index**. 
+    * **[Template Library Index v1.0.1](templates/TEMPLATE-INDEX-v1.0.1.md)**
 
-  #### **Architecture**
-  - Cloud (AWS, GCP), deployment, serverless, edge computing  
-  - API gateways, reverse proxies, versioning  
-  - Observability, security, zero‑trust  
-  - Network topologies  
+- `README.md`: This file, providing an overview and guide to the repository.
 
-  #### **Identity**
-  - OAuth2, OIDC, PKCE, device flow  
-  - Identity flows and access control patterns  
-
-  #### **Distributed Systems**
-  - Service mesh (basic + advanced)  
-  - Event‑driven microservices  
-  - CQRS, event sourcing  
-  - CAP theorem, caching, sharding  
-  - Blockchain consensus  
-
-  #### **Kubernetes**
-  - Cluster basics  
-  - Scheduling, taints/tolerations  
-  - Networking (CNI, kube‑proxy, services)  
-  - Container lifecycle  
-
-  #### **DevOps**
-  - IaC diagrams  
-  - CI/CD pipelines  
-  - API lifecycle  
-  - Git branching models  
-
-  #### **Data Engineering**
-  - ERDs, DDD aggregates  
-  - Data pipelines (ETL/ELT/streaming)  
-  - Data modeling patterns  
-  - Event storming  
-
-  #### **UI/UX**
-  - Wireframes (login, dashboard, settings)  
-  - ASCII UI components  
-  - CLI help screens  
-  - Menu and list templates  
-
-  #### **Modeling & Design**
-  - UML class diagrams (basic, inheritance, abstract, generics)  
-  - Composition/aggregation  
-  - Package diagrams  
-  - State machines, statecharts  
-  - BPMN (basic + advanced)  
-  - Flowcharts  
-  - Directory trees  
+- `CHANGELOG.md`: Tracks major updates and version history for the repository content.
 
 ---
 
@@ -169,6 +144,7 @@ Educators can use this repo to spark exercises such as:
 
 Pull requests are welcome!  
 Ideas include adding new templates, expanding language examples, or improving dataset accuracy.
+Contributions in the form of new ASCII box drawing templates are highly welcome!
 
 ---
 

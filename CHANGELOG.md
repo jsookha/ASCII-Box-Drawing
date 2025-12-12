@@ -9,7 +9,36 @@ This file documents the evolution of the repository, compiled collaboratively.
 
 ---
 
-## [2025-12-10] Initial Compilation
+## [1.0.1] - 2025-12-12 - Template Management Overhaul (MINOR)
+
+### Template Library Restructure
+- **New Index File:** Introduced `templates/TEMPLATE-INDEX-v1.0.1.md` to serve as the single, organized entry point for the entire template library.
+    - The index groups all templates by category, provides a brief overview for each domain, and links directly to the files.
+- **Categorization Finalized:** Templates were reviewed, moved, and confirmed into their most relevant sub-directories.
+- **Cross-Category Linking:** Established a system in the Template Index to reference templates that logically belong to multiple categories without file duplication (e.g., `zero-trust-architecture.md` linked in both `architecture/` and `identity/` sections).
+
+### Documentation & Readability
+- **README.md Updated:**
+    - Added a new **"💡 Motivation (The Why)"** section to clearly explain the project's purpose and the value of ASCII diagrams (RFC inspiration, version control).
+    - Updated the **`## Contents`** and **`## Repository Structure`** sections to prominently feature and link to the new `TEMPLATE-INDEX-v1.0.1.md`.
+
+### Template Changes (Patch)
+- Minor formatting and consistency improvements applied across various template files.
+- Category descriptions updated to reflect the formalized structure.
+
+---
+
+## [1.0.0] - 2025-12-12 - Template Sorting & Consistency (MAJOR/MINOR)
+
+### Template Sorting 
+- New templates added and existing templates renamed for consistency.
+- Reorganized folders and introduced new categories (e.g., `kubernetes`, `distributed-systems`) to better scope the library.
+- Minor improvements to existing diagrams.
+- Formatting and naming conventions adopted similar to original series of documents.
+
+---
+
+## [0.1.0] - 2025-12-10 - Initial Compilation (MINOR)
 
 ### Repository Setup
 - Confirmed repository name: **ASCII Box Drawing**
@@ -87,24 +116,6 @@ This file documents the evolution of the repository, compiled collaboratively.
 
 ---
 
-## [2025-12-12] Updated Content
 
-### Template Sorting 
-- new templates added  
-- renamed templates  
-- reorganized folders  
-- breaking changes: file moved or merged
-- minor improvements to existing diagrams  
-- new categories introduced  
-- formatting & naming conventions adopted similar to original series of documents  
 
----
-
-## Summary
-The repository now provides:
-- A complete reference for box-drawing characters.
-- Machine-readable datasets in multiple formats.
-- Language demos with documentation.
-- Templates for teaching and practical use.
-- Clear contribution guidelines and changelog.
 

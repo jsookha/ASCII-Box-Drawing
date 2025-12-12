@@ -7,8 +7,11 @@ This repository is designed as a teaching and developer resource for Unicode box
 
 ### 1. Add New Templates
 - Create ASCII diagrams for menus, ER diagrams, flowcharts, directory trees, or dashboards.
-- Save them in the `templates/` folder as `.txt` files.
+- Save them in the appropriate category sub-folder within `templates/` folder as `.md` files.
 - Use clear, consistent box styles (light, heavy, double, rounded, mixed).
+- Ensure templates use the standard box drawing characters (like `─`, `│`, `┌`, `└`, etc.) for maximum compatibility.
+- Include a short description or "Purpose" section within the template file itself.
+- After adding a file, please update the **TEMPLATE-INDEX-v1.0.1.md** with the new entry.
 
 ### 2. Expand Language Examples
 - Add new demo files in the `examples/` folder.
