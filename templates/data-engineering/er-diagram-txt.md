@@ -31,13 +31,13 @@ Useful for schema design, data modelling, and backend architecture.
 ### Example 3 — Many‑to‑Many (Join Table)
 
 ```
-┌──────────────┐        ┌────────────────┐         ┌──────────────┐
-│   Students   │  *   ┌▶│ StudentCourse  │◀─┐   *  │   Courses    │
-├──────────────┤      │ ├────────────────┤  │      ├──────────────┤
-│ id (PK)      │      │ │ studentId (FK) │  │      │ id (PK)      │
-│ name         │      │ │ courseId (FK)  │  │      │ title        │
-└──────────────┘      │ └────────────────┘  │      └──────────────┘
-                      └─────────────────────┘
+┌──────────────┐        ┌────────────────┐        ┌──────────────┐
+│   Students   │  *   ┌▶│ StudentCourse  │◀┐   *  │   Courses    │
+├──────────────┤      │ ├────────────────┤ │      ├──────────────┤
+│ id (PK)      │      │ │ studentId (FK) │ │      │ id (PK)      │
+│ name         │      │ │ courseId (FK)  │ │      │ title        │
+└──────────────┘      │ └────────────────┘ │      └──────────────┘
+                      └────────────────────┘
 ```
 
 ---
