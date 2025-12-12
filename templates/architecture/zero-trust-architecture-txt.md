@@ -32,7 +32,7 @@ User
            [ Protected App ]
 ```
 
-### Example — Micro‑Segmentation
+### Example 3 — Micro‑Segmentation
 ```
 Segment A:  Service A1, A2
 Segment B:  Service B1, B2
